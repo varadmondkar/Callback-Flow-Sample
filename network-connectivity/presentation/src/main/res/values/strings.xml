@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="internet_connected_label">Stable Internet Connection</string>
+    <string name="internet_disconnected_label">No Internet Connection</string>
+    <string name="network_screen_info">* Connect/Disconnect Wifi/Data to see the changes</string>
+</resources>

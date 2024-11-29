@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Callback Flow Sample</string>
+    <string name="network_connectivity_title">Network Connection</string>
+</resources>
